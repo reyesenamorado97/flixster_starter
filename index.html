@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flixster</title>
+</head>
+<body>
+
+    <div class="title-label">
+        <h1>
+
+            🍿Flixster
+        </h1>
+    </div>
+
+    <form id="form" action="https://api.themoviedb.org/3/movie/550?api_key=efb912c896a5b0234aa26ee9ab09ff8e">
+
+        <div class="movie-textbox-area">
+            <input type="text" id="search-input" name="movie-textbox" placeholder="Enter a search term"/>
+            <input  type="submit" value="Search Movies" class="submit-button">
+            <button id="close-search-btn" type="button" class="submit-button">Now Playing</button>
+
+        </div> 
+    </form>
+    
+    <br>
+    <br>
+
+    <div class="movie-contents">
+
+        <div id="movies-grid" class="gallery">
+            <div id="myModal" class="modal">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <p id="modal-text">hello</p>
+                </div>
+            </div>
+          </div>
+        </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div class="more-movie-area">
+        <button id="load-more-movies-btn" type="button" class="more-button">More Movies</button>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
