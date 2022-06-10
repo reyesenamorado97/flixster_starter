@@ -39,7 +39,8 @@ Estimated time spent: **13** hours spent in total
 
 ### Walkthrough Video
 
-![walkthrough](https://i.imgur.com/LdnSOaP.gif)
+![](https://i.imgur.com/LdnSOaP.gif)
+![](https://github.com/reyesenamorado97/flixster_starter/blob/main/ezgif.com-gif-maker%20%287%29.gif?raw%3Dtrue)
 
 
 ### Reflection
