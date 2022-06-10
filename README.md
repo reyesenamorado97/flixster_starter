@@ -39,7 +39,7 @@ Estimated time spent: **13** hours spent in total
 
 ### Walkthrough Video
 
-![](https://i.imgur.com/LdnSOaP.gif)
+![walkthrough](https://i.imgur.com/LdnSOaP.gif)
 
 
 ### Reflection
